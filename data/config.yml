@@ -1,0 +1,10 @@
+#boost modes: 0 = disabled, 2 = aggressive, 4 = efficient aggressive
+app_name: "G14ControlLITE" # Name of the app, you can customize that as you wish!
+start_on_boot: true # Set to True to enable starting on boot which adds a windows registry entry
+notification_time: 5 # How long notifications will stay on the screen
+long_notification_time: 5
+default_power_plan: "Balanced"
+alt_power_plan: "High performance"
+temp_dir: 'C:\temp\' # MUST END with "\"!!
+rog_key: null
+debug: true # true/false Don't change unless you know what you are doing!!!
